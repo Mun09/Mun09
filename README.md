@@ -2,13 +2,9 @@
 
 I am **Jaeyoung Moon**, and I believe in the power of intellect
 
----
-
 ## 🏆 Awards
 - **우수상**: 2022 카이스트-충남대 소셜벤쳐 경진대회  
   *Recognized for presenting impactful solutions with a focus on social innovation.*
-
----
 
 ## 🎓 Education
 - **KAIST**: Bachelor’s Degree in Computer Science (2021 - Present)  
@@ -16,15 +12,11 @@ I am **Jaeyoung Moon**, and I believe in the power of intellect
 
 ## 🤝 Activities
 - **SPARCS, KAIST** (2022 - Present)
-  
----
 
 ## 🔧 Skills & Tech Stack
 - **Languages**: Python, JavaScript, C++, Java  
 - **Frameworks**: Flutter, React, Next.js  
 - **Other**: Firebase, Tailwind CSS, AI Models (e.g., MiDaS Depth Estimation), Recursive Least Squares (RLS)  
-
----
 
 ## 🏗️ Projects
 1. **UAE (Use And Eat)**  
