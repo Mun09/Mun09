@@ -7,7 +7,8 @@ I am **Jaeyoung Moon**, and I believe in the power of intellect
   *Recognized for presenting impactful solutions with a focus on social innovation.*
 
 ## 🎓 Education
-- **KAIST**: Bachelor’s Degree in Computer Science (2021 - Present)  
+- **KAIST**: Bachelor’s Degree in Computer Science (2021 - Present)
+- **Republic of Korea Army**: Military Service (2022 - 2024)
 - **TU Dortmund**: Exchange Student (2024/25 Winter Semester)  
 
 ## 🤝 Activities
