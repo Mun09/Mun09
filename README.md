@@ -20,16 +20,11 @@ I am **Jaeyoung Moon**, and I believe in the power of intellect
 - **Other**: Firebase, Tailwind CSS, AI Models (e.g., MiDaS Depth Estimation), Recursive Least Squares (RLS)  
 
 ## 🏗️ Projects
-1. **UAE (Use And Eat)**  
-   - A food waste reduction platform connecting businesses and consumers.  
-   - Role: Developed key features and designed the user interface.  
-   - Tech Stack: Flutter, Firebase, Geocoding API  
 
-2. **AI Depth Estimation Research**  
-   - Implemented and experimented with the MiDaS depth estimation model.  
-
-3. **Web Portfolio**  
-   - Designed a personal portfolio using Next.js and Tailwind CSS.  
+### 1. Noty - 간편한 위젯 기반 메모 앱
+* **소개**: 위젯을 통해 빠르고 간편하게 메모를 작성하고 관리할 수 있는 앱입니다.
+* **앱 링크**: [https://play.google.com/store/apps/details?id=com.mun09.noty](https://play.google.com/store/apps/details?id=com.mun09.noty)
+* **기술 스택**: Flutter
 
 ---
 
